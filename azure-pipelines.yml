@@ -10,7 +10,7 @@
 - trigger:
 - main
 
-pool:
+- pool:
   vmImage: ubuntu-latest
 - task: PublishBuildArtifacts@1
   inputs:
